@@ -19,3 +19,15 @@
 [submodule "uniqueid"]
 	path = uniqueid
 	url = git@github.com:pacifica/pacifica-uniqueid.git
+[submodule "upload-status"]
+	path = upload-status
+	url = git@github.com:kauberry/pacifica-upload-status.git
+[submodule "reporting"]
+	path = reporting
+	url = git@github.com:kauberry/pacifica-reporting.git
+[submodule "proxy"]
+	path = proxy
+	url = git@github.com:kauberry/pacifica-proxy.git
+[submodule "uploader"]
+	path = uploader
+	url = git@github.com:EMSL-MSC/pacifica-uploader.git
